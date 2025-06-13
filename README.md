@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, My name is Alex Gamero</h1>
+<h1 align="center">Hi there, My name is Alex Gamero ! ! !</h1>
 <h3 align="center">A student developer based in Ottawa 🍁 </h3>
 
 <p align="center">
