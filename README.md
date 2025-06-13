@@ -27,3 +27,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-gamero&show_icons=true&theme=tokyonight&hide_title=false" height="150" />
   <img src="https://github-readme-stats.verce
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="matias10gamero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+</p>
