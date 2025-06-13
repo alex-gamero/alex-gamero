@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Alex Gamero</h1>
-<h3 align="center">A student developer based in Ottawa 🇨🇦 originally from Peru 🇵🇪</h3>
+<h1 align="center">Hi there 👋, My name is Alex Gamero</h1>
+<h3 align="center">A student developer based in Ottawa 🍁 </h3>
 
 <p align="center">
   💻 Studying <strong>Computer Programming and Analysis</strong> at Algonquin College<br>
@@ -8,8 +8,6 @@
 </p>
 
 ---
-
-### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -21,8 +19,6 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats (Still growing!)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-gamero&show_icons=true&theme=tokyonight&hide_title=false" height="150" />
