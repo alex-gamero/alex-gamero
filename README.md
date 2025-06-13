@@ -23,5 +23,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-gamero&show_icons=true&theme=tokyonight&hide_title=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-gamero&layout=compact&theme=tokyonight" height="150" />
 </p>
