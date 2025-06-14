@@ -23,4 +23,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-gamero&show_icons=true&theme=tokyonight&hide_title=false" height="150" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-gamero&show_icons=true&theme=tokyonight&cache_seconds=3600)
 </p>
