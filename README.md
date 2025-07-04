@@ -22,6 +22,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-gamero&show_icons=true&theme=tokyonight&cache_seconds=3600" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-gamero&layout=compact&theme=tokyonight&cache_seconds=3600" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-gamero&show_icons=true&theme=tokyonight&cache_seconds=3600" style="height: 150px; width: 430px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-gamero&layout=compact&theme=tokyonight&cache_seconds=3600" style="height: 150px;" />
 </p>
