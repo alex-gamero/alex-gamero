@@ -15,9 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px;" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px;" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;" alt="CSS" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" style="height: 40px;" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px;" alt="Linux" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" style="height: 40px;" alt="Python" />
 </p>
 
 ---
