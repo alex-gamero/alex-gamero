@@ -2,9 +2,9 @@
 <h3 align="center">A student developer based in Ottawa 🍁 </h3>
 
 <p align="center">
-  💻 Studying <strong>Computer Programming and Analysis</strong> at Algonquin College<br>
-  🚀 Currently exploring web development, databases, and Linux systems<br>
-  🌱 Learning every day — improving my skills in Java, SQL, and JavaScript<br>
+  Studying <strong>Computer Programming and Analysis</strong> at Algonquin College<br>
+  Currently exploring web development, databases, and Linux systems<br>
+  Learning every day — improving my skills in Python, Java, SQL, and JavaScript<br>
 </p>
 
 ---
