@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-gamero&layout=compact&theme=tokyonight&cache_seconds=3600" style="height: 150px;" />
-  <img src="https://streak-stats.demolab.com?user=alex-gamero&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=alex-gamero&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </p>
 
 <div align="center">
