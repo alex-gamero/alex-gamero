@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150">
+<rect x="1" y="1" width="438" height="148" rx="12" fill="#1a1b26" stroke="#2f334d" stroke-width="1.5"/>
+<rect x="1" y="1" width="5" height="148" rx="2" fill="#f7768e"/>
+<text x="24" y="40" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#565f89">~/</text>
+<text x="45" y="40" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#f7768e">Nullpoint</text>
+<circle cx="348" cy="34" r="4" fill="#9ece6a"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle><text x="358" y="38" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#9ece6a">live</text>
+<text x="418" y="39" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#565f89">↗</text>
+<text x="24" y="70" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#c0caf5">A dark mystery game played through a terminal.</text><text x="24" y="91" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#c0caf5">Your answers decide the ending.</text>
+<rect x="24" y="112" width="92" height="22" rx="11" fill="#f7768e" fill-opacity=".12" stroke="#f7768e" stroke-opacity=".45"/><text x="70" y="127" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#f7768e">JavaScript</text><rect x="124.0" y="112" width="49" height="22" rx="11" fill="#f7768e" fill-opacity=".12" stroke="#f7768e" stroke-opacity=".45"/><text x="148" y="127" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#f7768e">JSON</text>
+</svg>
