@@ -2,9 +2,8 @@
 
 <img src="assets/banner.svg" width="100%" alt="alex@ottawa:~$ whoami → Alex Gamero, student developer" />
 
-<a href="https://www.linkedin.com/in/matias-alex-gamero-gora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/alex-gamero/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/alex-gamero?tab=repositories"><img src="https://img.shields.io/badge/All_projects-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" alt="All projects" /></a>
-<img src="https://komarev.com/ghpvc/?username=alex-gamero&style=for-the-badge&color=bb9af7&label=profile+views" alt="Profile views" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -37,6 +36,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<sub>Arequipa 🇵🇪 → Ottawa 🍁 · always building something</sub>
+<sub>Ottawa 🍁 · always building something</sub>
 
 </div>
